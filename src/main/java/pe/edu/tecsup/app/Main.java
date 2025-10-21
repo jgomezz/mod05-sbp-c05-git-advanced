@@ -19,7 +19,8 @@ public class Main {
             throw new IllegalArgumentException("El número debe ser no negativo");
         }
 
-        int suma = 0;
+        int suma = 0; // Los cambios son los mismos
+
         for (int i = 1; i <= n; i++) {
                 suma += i;
         }
@@ -37,3 +38,5 @@ public class Main {
     // TODO > fix 002 , todo OK
 
 }
+
+// Nuevo cambio fix 003 --> Correcion validada
