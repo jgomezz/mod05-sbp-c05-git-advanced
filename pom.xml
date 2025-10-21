@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>pe.edu.tecsup.app</groupId>
-    <artifactId>m0_dfs_c01_intro_version</artifactId>
+    <artifactId>mod05-sbp-c05-git-advanced</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
